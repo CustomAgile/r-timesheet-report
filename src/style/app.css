@@ -1,0 +1,40 @@
+.app {
+}
+.tsinfolink {
+    position:absolute;
+    right:0px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background: #C0C0C0;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.secondary-action-btn {
+    border: none;
+    background: none;
+}
+.secondary-action-btn span {
+    cursor: pointer;
+    color: #00a9e0;
+}
+
+.big {
+    font-size: 16px;
+}
+
+
+td.ts-total-cell {
+    background-color: #eee !important;
+}
+
+.x-grid-row-summary {
+    background-color: #eee;
+}
+
